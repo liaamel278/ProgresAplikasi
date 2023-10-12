@@ -1,11 +1,10 @@
 <resources>
     <string name="app_name">ProgresApk</string>
-<<<<<<< HEAD
-=======
+    =======
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_tab_home">Home</string>
     <string name="title_tab_book">History</string>
     <string name="title_tab_profile">List</string>
->>>>>>> 9286079 (Initial commit)
+    >>>>>>> 9286079 (Initial commit)
 </resources>
